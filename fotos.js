@@ -1,9 +1,9 @@
 carregarFotos([
-  "foto1.jpeg","foto2.jpeg","foto3.jpeg","foto4.jpeg","foto5.jpeg",
-  "foto6.jpeg","foto7.jpeg","foto8.jpeg","foto9.jpeg","foto10.jpeg",
-  "foto11.jpeg","foto12.jpeg","foto13.jpeg","foto14.jpeg","foto15.jpeg",
-  "foto16.jpeg","foto17.jpeg","foto18.jpeg","foto19.jpeg","foto20.jpeg",
-  "foto21.jpeg","foto22.jpeg","foto23.jpeg","foto24.jpeg","foto25.jpeg",
-  "foto26.jpeg","foto27.jpeg","foto28.jpeg","foto29.jpeg","foto30.jpeg",
-  "foto31.jpeg","foto32.jpeg","foto33.jpeg"
+  "foto1.jpg","foto2.jpg","foto3.jpg","foto4.jpg","foto5.jpg",
+  "foto6.jpg","foto7.jpg","foto8.jpg","foto9.jpg","foto10.jpg",
+  "foto11.jpg","foto12.jpg","foto13.jpg","foto14.jpg","foto15.jpg",
+  "foto16.jpg","foto17.jpg","foto18.jpg","foto19.jpg","foto20.jpg",
+  "foto21.jpg","foto22.jpg","foto23.jpg","foto24.jpg","foto25.jpg",
+  "foto26.jpg","foto27.jpg","foto28.jpg","foto29.jpg","foto30.jpg",
+  "foto31.jpg","foto32.jpg","foto33.jpg"
 ]);
