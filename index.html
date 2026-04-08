@@ -221,8 +221,9 @@
   });
 
   // Carrega fotos do arquivo fotos.js
+  const basePath = location.pathname.replace(/\/[^/]*$/, '/');
   function carregarFotos(lista) {
-    allImgs = lista.map(f => 'fotos/' + f);
+    allImgs = lista.map(f => basePath + 'fotos/' + f);
 
     // Preenche galeria
     const grid = document.getElementById('gallery-grid');
